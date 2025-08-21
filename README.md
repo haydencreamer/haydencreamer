@@ -1,4 +1,4 @@
-![decorative banner image]()
+![decorative banner image](Hayden-Github-Banner.png)
 
 # Hi, I'm Hayden
 
