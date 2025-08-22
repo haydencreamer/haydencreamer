@@ -17,7 +17,7 @@
   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
   '''python
-  Print(Hello, World!)
+    Print(Hello, World!)
   '''python
 
   ## 💻 Digtal Toolkits
