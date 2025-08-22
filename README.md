@@ -23,5 +23,5 @@
   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-  
-<img src="https://raw.githubusercontent.com/haydencreamer/haydencreamer/output/snake.svg" alt="Snake animation" />
+  ## 📈 Github Stats
+  [![GitHub Streak](https://streak-stats.demolab.com?user=haydencreamer&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
